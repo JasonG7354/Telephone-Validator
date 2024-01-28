@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    background-color: #062F4F;
+    color: white;
+}
+form{
+    border: solid;
+    padding: 10px;
+    background-color: black;
+}
+#user-input{
+    border-radius: 5px;
+    border: solid;
+    font-size: 24px;
+}
+.button{
+    margin-top: 3%;
+    padding: 3%;
+}
+#results-div{
+    display: none;
+    border: solid;
+    padding: 5%;
+    font-size: 20px;
+    background-color: black;
+}
